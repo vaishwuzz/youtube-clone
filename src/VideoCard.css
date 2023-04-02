@@ -1,0 +1,14 @@
+.VideoCard{
+    margin-bottom: 40px;
+    width : 270px;
+}
+
+.VideoCard_thumbnail {
+    height : 140px;
+    width : 250px;
+}
+
+.VideoCard_info{
+ display: flex;
+}
+
